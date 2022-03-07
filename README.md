@@ -1,2 +1,0 @@
-# Mission_to_Mars
-Module_10_assignment
